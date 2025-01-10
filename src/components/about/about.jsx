@@ -20,7 +20,7 @@ export default function About() {
                     <div className="flex flex-col md:flex-row gap-20 md:gap-0 items-center">
                         {/* content */}
                         <div className="text-secondary mt-10 md:w-1/2">
-                            <p className="text-sm md:text-base">Hello there! My name is Rivaldo Tandoko and i&apos;m a front-end developer based in Pontianak, specializing in crafting visually appealing and user-friendly websites. Currently pursuing my undergraduate degree in informatics, I focus on frontend web development, translating design concepts into seamless, responsive interfaces that enhance user experiences.</p>
+                            <p className="text-sm md:text-base">Hello there! My name is Angga Haady Wijaya and i&apos;m a front-end developer based in Pontianak, specializing in crafting visually appealing and user-friendly websites. Currently pursuing my undergraduate degree in informatics, I focus on frontend web development, translating design concepts into seamless, responsive interfaces that enhance user experiences.</p>
 
                             <p className="mt-6 text-sm md:text-base">My passion lies in delivering high-quality, innovative solutions that meet both aesthetic and functional requirements. With a keen eye for detail and a commitment to staying updated with industry trends, I strive to create intuitive user interfaces that leave a lasting impression. Outside of coding, I enjoy exploring new technologies and continuously refining my skills to keep up with the evolving digital landscape.</p>
 
