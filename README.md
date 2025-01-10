@@ -22,13 +22,13 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/rtrivaldo/portfoliov1.git\
+    git clone https://github.com/angga150/portofolio.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd portfoliov1
+    cd portofolio
     ```
 
 3. Install dependencies:
