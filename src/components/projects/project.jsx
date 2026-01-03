@@ -23,35 +23,35 @@ export default function Project() {
 
                     {/* content */}
                     <div className="mt-10">
-                        {/* expense tracker */}
+                        {/* Hmmi-Community */}
                         <div>
                             <Card
-                                title={"Expense Tracker"}
-                                description={"An expense tracking application built using the Laravel framework enables users to effortlessly record and manage their expenses. Key features include transaction logging, monthly expense reporting, and an integrated authentication system to ensure user data security."}
-                                image={"assets/expense-tracker.jpeg"}
-                                techStack={[<TechStack text="TailwindCSS" />, <TechStack text="Laravel" />, <TechStack text="SQLite" />]}
-                                link={"https://github.com/rtrivaldo/expense-tracker"}
+                                title={"Hmmi-Community"}
+                                description={"Hmmi-Community is a web-based platform designed for Hmmi students to connect, share resources, and collaborate on projects. Built using React for the frontend, PHP for the backend, and styled with TailwindCSS, it offers features such as user authentication, discussion forums, and resource sharing to enhance the academic experience."}
+                                image={"assets/hmmi.png"}
+                                techStack={[<TechStack text="React" />, <TechStack text="PHP" />, <TechStack text="TailwindCSS" />]}
+                                link={"https://github.com/angga150/Hmmi-Community"}
                             />
                         </div>
 
-                        {/* tic tac toe */}
+                        {/* Todolist WEB */}
                         <div className="mt-20">
                             <Card
-                                title={"Tic Tac Toe"}
-                                description={"Developing a Tic Tac Toe game using the React library allows two players to compete on a 3x3 game board. Key features include interactive move selection, real-time game status updates like player turns and winner announcements, and a responsive, user-friendly interface."}
-                                image={"assets/tic-tac-toe.jpeg"}
-                                techStack={[<TechStack text="TailwindCSS" />, <TechStack text="React" />]}
-                                link={"https://tic-tac-toe-alpha-two-29.vercel.app"}
+                                title={"Todolist WEB"}
+                                description={"Todolist WEB is a simple web application for managing tasks. Built with PHP and styled using TailwindCSS, it allows users to add, view, and delete tasks efficiently."}
+                                image={"assets/todolist.png"}
+                                techStack={[<TechStack text="PHP" />, <TechStack text="TailwindCSS" />]}
+                                link={"https://github.com/angga150/To-Do-List"}
                             />
                         </div>
 
                         {/* omah */}
-                        <div className="mt-20">
+                        {/* <div className="mt-20">
                             <Card title={"Omah"} description={"Omah is a challenge from Codedesign.dev that tasked me with coding a project based on a Figma design. The challenge involved translating the visual design into a functional, responsive website, showcasing my skills in front-end development and design implementation."} image={"assets/omah.jpeg"} techStack={[<TechStack text="TailwindCSS" />, <TechStack text="JavaScript" />]} link={"https://rtrivaldo.github.io/Omah"} />
-                        </div>
+                        </div> */}
 
                         {/* landscapio */}
-                        <div className="mt-20">
+                        {/* <div className="mt-20">
                             <Card
                                 title={"Landscapio"}
                                 description={"Landscapio is a challenge from Codedesign.dev where I was required to code a project from a Figma design. This task involved transforming the provided visual layout into a functional and responsive website, demonstrating my ability to accurately implement design specifications using front-end development skills."}
@@ -59,7 +59,7 @@ export default function Project() {
                                 techStack={[<TechStack text="HTML" />, <TechStack text="CSS" />, <TechStack text="JavaScript" />]}
                                 link={"https://rtrivaldo.github.io/landscapio"}
                             />
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>
